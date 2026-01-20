@@ -1,5 +1,5 @@
 # My First Repository
-- Student Name: Ahsan Khan  
-- Registration No: [Apna registration number yahan likhein]
+- Student Name: Muhammad Ahsan Khan  
+- Registration No: 25101071
 - # my-first-repo
 This is my first repository for ICT Lab.
